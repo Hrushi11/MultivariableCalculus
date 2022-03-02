@@ -16,7 +16,7 @@ Covers the following subjects:
 * Lagrange Multipliers & Constrained Optimization
 
 ## Setup
-Minimal setup is required to run this project. Just install the following dependencies:
+Minimal setup is required to run this project. Just install the following dependencies:-
 ```
 pip install numpy matplotlib scipy jupyter
 ```
